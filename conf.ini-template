@@ -1,0 +1,7 @@
+[transifex]
+username=<your_transifex_username>
+password=<your_api_token>
+project_slug=<your_project_name>
+
+[resources]
+<resource_name>=<remote_file_url>
