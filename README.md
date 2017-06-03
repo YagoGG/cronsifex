@@ -69,6 +69,11 @@ Here's an example:
 translationsjson=https://raw.githubusercontent.com/zulip/zulip/master/static/locale/en/translations.json
 ```
 
+## License
+
+cronsifex's code is under the MIT license, which can be read in this repo's
+[LICENSE](./LICENSE) file.
+
 ---
 
 &copy; 2017 [Yago González](https://github.com/YagoGG). All rights reserved.
